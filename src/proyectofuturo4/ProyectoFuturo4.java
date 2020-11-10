@@ -7,7 +7,7 @@ package proyectofuturo4;
 
 /**
  *
- * @author garri
+ * COMENTARIO RAFAEL GARCIA DIAZ
  */
 public class ProyectoFuturo4 {
 
