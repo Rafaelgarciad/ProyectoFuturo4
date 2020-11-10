@@ -21,7 +21,7 @@ public class ProyectoFuturo4 {
         
     }
         
-    private static String veredicto(String[] args) {
+    public static String veredicto(String[] args) {
         String valor1,valor2;
         valor1 = args[0];
         valor2 = args[1];
